@@ -1,10 +1,10 @@
-#Jarvis
+# Jarvis
 
-##Description
+## Description
 
 Jarvis is an Artificial Intelligence Assistant designed to make your life easier. It can perform a wide range of tasks such as scheduling, reminders, weather forecast, news updates, and many more. With its natural language processing capabilities, you can interact with Jarvis using simple voice commands.
 
-##Features
+## Features
 
 Voice commands: Jarvis understands natural language and can respond to your voice commands.
 
@@ -18,7 +18,7 @@ Integration with other devices: Jarvis can be integrated with other devices such
 
 Customizable: You can customize Jarvis to suit your specific needs and preferences.
 
-##Installation
+## Installation
 
 You can install Jarvis by following these steps:
 
@@ -31,27 +31,27 @@ pip install -r requirements.txt
 Run the application by executing the following command:
 python jarvis.py
 
-##Usage
+## Usage
 
 Once the application is running, you can interact with Jarvis using simple voice commands.
 
 You can also customize Jarvis by editing the config.py file.
 
-##Contribution
+## Contribution
 
 We welcome contributions from the community. If you would like to contribute to the development of Jarvis, please follow these guidelines:
 
-##Fork the repository.
+## Fork the repository.
 
 Create a new branch for your feature or bug fix.
 
 Submit a pull request to the development branch.
 
-##License
+## License
 
 The project is licensed under the MIT License.
 
-##Contact
+## Contact
 
 For any queries or suggestions, please feel free to contact me at abdallahhussam79@gmail.com 
 
