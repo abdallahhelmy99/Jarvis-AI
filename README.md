@@ -23,7 +23,7 @@ Customizable: You can customize Jarvis to suit your specific needs and preferenc
 You can install Jarvis by following these steps:
 
 Clone the repository to your local machine by running the following command:
-git clone https://github.com/abdallahhelmy99/jarvis.git
+git clone https://github.com/abdallahhelmy99/Jarvis-AI.git
 
 Navigate to the project directory and install the required packages by running the following command:
 pip install -r requirements.txt
